@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gunalan27/samp1/static/css/main.effc56fd.css",
+    "main.js": "/Gunalan27/samp1/static/js/main.ed0d0def.js",
+    "index.html": "/Gunalan27/samp1/index.html",
+    "main.effc56fd.css.map": "/Gunalan27/samp1/static/css/main.effc56fd.css.map",
+    "main.ed0d0def.js.map": "/Gunalan27/samp1/static/js/main.ed0d0def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.effc56fd.css",
+    "static/js/main.ed0d0def.js"
+  ]
+}
